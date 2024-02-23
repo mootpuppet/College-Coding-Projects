@@ -1,0 +1,55 @@
+
+//CalculateTaxes Pseudocode//
+
+declare global variables
+
+call getFilingStatus();
+call getIncome();	
+call calculateTaxesOwed();
+call displayTaxes();
+
+
+
+//getFilingStatus Pseudocode//
+
+ask user for filing status 
+
+
+
+
+//getIncome Pseudocode//
+
+ask user for income
+
+
+
+//determineTaxBracket Pseudocode//
+
+if filer is single
+	 call singleFilerTaxBracket();
+
+else
+	call jointFilerTaxBracket();
+	
+
+	
+
+
+
+//singleFilerTaxBracket Pseudocode//
+
+determine taxBracket based on income
+
+return taxBracket
+
+
+//jointFilerTaxBracket Pseudocode//
+
+determine taxBracket based on income
+
+return taxBracket
+
+
+//calculateTaxesOwed Pseudocode//
+
+use 
