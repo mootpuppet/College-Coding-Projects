@@ -1,4 +1,4 @@
-# Welcome to My College Coding Projects
+# Welcome to My College Coding Projects Github Respository
 
 Hello there! I'm a Computer Engineering major at Milwaukee School of Engineering in Milwaukee, WI. This repository is a collection of my coding projects and assignments that I've worked on throughout my academic journey. My experience spans across various programming languages and technologies, including C, Java, Python, ARM, and VHDL.
 
