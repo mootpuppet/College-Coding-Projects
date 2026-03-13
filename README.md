@@ -2,7 +2,7 @@
 
 Hello there! I'm a Computer Engineering major at Milwaukee School of Engineering in Milwaukee, WI. This repository is a collection of my coding projects and assignments that I've worked on throughout my academic journey. My experience spans across various programming languages and technologies, including C, Java, Python, ARM, and VHDL.
 
-**Important Note:** This repository is a work in progress. I have three years of work to upload and organize
+**Important Note:** This repository is a work in progress. I have years of work to upload and organize
 
 ## About Me
 
